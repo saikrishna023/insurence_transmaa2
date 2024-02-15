@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "211484229327",
+    "project_id": "image-5c6df",
+    "storage_bucket": "image-5c6df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211484229327:android:d0f1f461f9680487f201ba",
+        "android_client_info": {
+          "package_name": "com.example.insurence_transmaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXErOH1OJG9sALACatzD38sA4w5YalIqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211484229327:android:1d32329bf13e4b5bf201ba",
+        "android_client_info": {
+          "package_name": "com.example.insurence_transmaa2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXErOH1OJG9sALACatzD38sA4w5YalIqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
